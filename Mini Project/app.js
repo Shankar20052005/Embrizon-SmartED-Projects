@@ -86,7 +86,11 @@ function deleteTodo(e) {
 
     if (item.classList.contains('edit-btn')) {
         const todo = item.parentElement;
-        newTodo.innerText = todoInput.value
+        const todoText = todo.querySelector('.todo-item');
         const newTodoText = prompt("Edit your task:", todoText.innerText);
+
+        if (newTodoText !== null && newTodoText.trim() !== '') {
+            todoText.innerText = newTodoText;
+        }
     }
 }
