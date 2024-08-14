@@ -1,0 +1,95 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "name": "Margherita",
+      "description": "Classic cheese and tomato pizza.",
+      "price": 10.99,
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2022/10/Margherita-Pizza-093.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Pepperoni",
+      "description": "Pepperoni, mozzarella cheese, and tomato sauce.",
+      "price": 12.99,
+      "image": "https://hungryfoodie.com/wp-content/uploads/2021/03/Pepperoni-Flatbread-Pizza-Recipe-Hungry-Foodie-scaled.jpg"
+    },
+    {
+      "id": "3",
+      "name": "BBQ Chicken",
+      "description": "Grilled chicken, BBQ sauce, red onions, and cilantro.",
+      "price": 13.99,
+      "image": "https://www.allrecipes.com/thmb/ee0daLeNNIUcrKbm5nxwFXheMDM=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-beauty-4x3-39cd80585ad04941914dca4bd82eae3d.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Veggie Delight",
+      "description": "Bell peppers, onions, mushrooms, olives, and mozzarella cheese.",
+      "price": 11.99,
+      "image": "https://sundayfoodapprentice.wordpress.com/wp-content/uploads/2014/04/dscn4367.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Hawaiian",
+      "description": "Ham, pineapple, mozzarella cheese, and tomato sauce.",
+      "price": 12.49,
+      "image": "https://www.allrecipes.com/thmb/v1Xi2wtebK1sZwSJitdV4MGKl1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hawaiian-pizza-ddmfs-3x2-132-450eff04ad924d9a9eae98ca44e3f988.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Meat Lover's",
+      "description": "Pepperoni, sausage, bacon, ham, and mozzarella cheese.",
+      "price": 14.99,
+      "image": "https://smokinandgrillinwitab.com/wp-content/uploads/2024/01/iStock-1248288953-1024x683.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Four Cheese",
+      "description": "Mozzarella, parmesan, gorgonzola, and fontina cheeses.",
+      "price": 13.49,
+      "image": "https://i.pinimg.com/736x/ef/2b/b2/ef2bb2113b7e447b7ee0c098ed926038.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Buffalo Chicken",
+      "description": "Spicy buffalo chicken, red onions, and ranch drizzle.",
+      "price": 13.99,
+      "image": "https://easychickenrecipes.com/wp-content/uploads/2019/11/buffalo-chicken-pizza-4-800x1200.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Mushroom & Spinach",
+      "description": "Sautéed mushrooms, spinach, garlic, and mozzarella cheese.",
+      "price": 12.99,
+      "image": "https://i.pinimg.com/originals/21/96/a2/2196a24b3c28039f84c29c135c24d7e9.jpg"
+    },
+    {
+      "image": "https://cdn11.bigcommerce.com/s-vm6doh2w4n/images/stencil/640w/products/8314/20588/brenbwklcajlem2t90lo__49662.1677143112.jpg?c=1",
+      "name": "Supreme",
+      "price": 14.49,
+      "description": "Pepperoni, sausage, bell peppers, onions, olives, and mushrooms.",
+      "id": "10"
+    },
+    {
+      "id": "97ba",
+      "name": "Pesto Chicken",
+      "description": "Grilled chicken, basil pesto, sun-dried tomatoes, and mozzarella.",
+      "price": 13.99,
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2022/02/chicken-pesto-pizza-16.jpg"
+    },
+    {
+      "id": "3deb",
+      "name": "Spicy Italian",
+      "description": "Italian sausage, spicy marinara, hot peppers, and mozzarella.",
+      "price": 12.99,
+      "image": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spicy-italian-sausage-pizza-842d24bb.jpg"
+    },
+    {
+      "id": "7d68",
+      "name": "Chicken Alfredo",
+      "description": "Creamy Alfredo sauce, grilled chicken, spinach, and mozzarella.",
+      "price": 14.49,
+      "image": "https://www.simplyrecipes.com/thmb/G2VQwX22IUW4TDSPgPVE72heqpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Chicken-Alfredo-Pizza-Lead-Shot-3b-6df9d82a4fd3451fa954a7f6ae1c6191.jpg"
+    }
+  ]
+}
