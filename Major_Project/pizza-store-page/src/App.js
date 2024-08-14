@@ -22,7 +22,6 @@ function App(){
         <Route path="/contact-us" element={<Contact/>}/>
       </Routes>
       
-      <h1>App Component</h1>
     </>
   )
 }

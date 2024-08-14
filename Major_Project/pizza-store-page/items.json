@@ -90,6 +90,13 @@
       "description": "Creamy Alfredo sauce, grilled chicken, spinach, and mozzarella.",
       "price": 14.49,
       "image": "https://www.simplyrecipes.com/thmb/G2VQwX22IUW4TDSPgPVE72heqpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Chicken-Alfredo-Pizza-Lead-Shot-3b-6df9d82a4fd3451fa954a7f6ae1c6191.jpg"
+    },
+    {
+      "image": "https://foodbythegram.com/wp-content/uploads/2024/04/DSCF9508-Medium.jpeg",
+      "name": "Spicy Sriracha",
+      "price": 14.49,
+      "description": "Grilled chicken, Sriracha sauce, red onions, and mozzarella cheese.",
+      "id": "651f"
     }
   ]
 }
